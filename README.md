@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">📩 - graysonwinters@protonmail.com<br><br>🔐 - Public Key Server</p>
+<p align="left">📩 - graysonwinters@protonmail.com<br><br>🔐 - https://keys.openpgp.org/vks/v1/by-fingerprint/D07BE9B1942082A4CE4B473523B35AF9E9DFC9D3</p>
 
 ###
 
